@@ -1,0 +1,10 @@
+[PARAMS]
+function_name = griewank
+num_of_population = 777
+dimension = 10
+num_of_iterations = 200
+lower_bound = -600.00
+upper_bound = 600.00
+param_crossing = 0.8
+param_mutation = 0.05
+elitism = 77

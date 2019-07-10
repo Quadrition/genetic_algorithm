@@ -1,0 +1,10 @@
+[PARAMS]
+function_name = ackley
+num_of_population = 100
+dimension = 10
+num_of_iterations = 1500
+lower_bound = -32.768
+upper_bound = 32.768
+param_crossing = 0.8
+param_mutation = 0.04
+elitism = 5
